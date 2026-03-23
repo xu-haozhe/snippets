@@ -4,6 +4,15 @@
 
 各种零零散散的小玩意，没准哪天对你有帮助，有用的话给个 ⭐star 吧
 
+## 有点什么？
+
+| 路径 | 简介 |
+| -- | -- | 
+| [gen-cargo-toml](gen-cargo-toml) | 在vscode里面使用单文件的 rust |
+| [lazy-build](lazy-build) | 在不需要时跳过编译，打线上赛的时候能节省些时间 |
+| [sync-dark-theme](sync-dark-theme) | 让更多 gtk 程序正确应用暗色 |
+| [aria2-pip](aria2-pip) | 用aria2加速pip下载，不过年久失修 |
+
 ## 怎么用？
 
 克隆或是下载，通常我会在子目录里留 readme 的。
